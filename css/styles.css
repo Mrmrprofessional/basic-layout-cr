@@ -1,0 +1,100 @@
+body{
+  background-color: #EDEFF0;
+}
+.nav {
+
+}
+.title{
+
+}
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
+
+.green{
+  background-color: #339779;
+}
+
+.pink{
+  background-color: #EE90AE;
+}
+
+.purple{
+  background-color: #848CC5;
+}
+
+.tab{
+  height: 58px;
+  width: 100%;
+  border-radius: 3px 3px 0 0;
+}
+
+.course{
+  height:310px;
+  width:559.5px;
+  background-color: #FFFFFF;
+  border-radius: 3px;
+  margin-bottom: 40px;
+}
+
+.container{
+  width:95%;
+  margin: auto;
+}
+
+.info{
+  margin: 30px;
+}
+
+.oval{
+  border: 2px solid #EAEDEF;
+  border-radius: 20px;
+  padding: 8px;
+  display: inline-block;
+}
+
+.circle{
+  border: 2px solid #EAEDEF;
+  border-radius: 50%;
+  padding: 8px;
+  width:20px;
+  text-align: center;
+  display: inline-block;
+
+}
+
+.tags{
+
+}
+
+.tab h4{
+  margin:20px;
+  color: white;
+}
+
+.dot{
+  border: 2px solid #EAEDEF;
+  border-radius: 20px;
+  width: 10px;
+  height: 10px;
+  margin: 20px;
+}
+
+.watch{
+  position: absolute;
+  top:-110px;
+  left:-90px;
+}
+.buttons{
+  position: relative;
+}
